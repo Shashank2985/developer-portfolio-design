@@ -59,7 +59,7 @@ export function Hero() {
             <Github className="w-6 h-6 text-cyan-400" />
           </a>
           <a
-            href="https://linkedin.com/in/ShashankGupta"
+            href="https://www.linkedin.com/in/shashank-gupta-06784228a/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-cyan-500/10 hover:bg-cyan-500/20 border border-cyan-500/20 transition-all hover:scale-110"
